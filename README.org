@@ -1,0 +1,10 @@
+* twfy
+
+Common Lisp bindings for the TheyWorkForYou API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jamtho/twfy.git   |
+| commit  | 71ce7fa  |
+| systems | twfy |
+|---------+-------------------------------------------|
+
